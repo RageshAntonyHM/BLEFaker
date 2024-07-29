@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "BLEFaker"
 include(":app")
+include(":GitModuleTest")
  
